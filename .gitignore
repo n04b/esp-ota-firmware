@@ -1,5 +1,8 @@
-.pio
 .pioenvs
 .piolibdeps
 .clang_complete
 .gcc-flags.json
+.vscode
+.pio
+
+.DS_Store
